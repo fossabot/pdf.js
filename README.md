@@ -1,4 +1,5 @@
 # PDF.js [![Build Status](https://github.com/mozilla/pdf.js/workflows/CI/badge.svg?branch=master)](https://github.com/mozilla/pdf.js/actions?query=workflow%3ACI+branch%3Amaster)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzerozenxlabs%2Fpdf.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzerozenxlabs%2Fpdf.js?ref=badge_shield)
 
 [PDF.js](https://mozilla.github.io/pdf.js/) is a Portable Document Format (PDF) viewer that is built with HTML5.
 
@@ -144,3 +145,7 @@ File an issue:
 Follow us on twitter: @pdfjs
 
 + https://twitter.com/pdfjs
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzerozenxlabs%2Fpdf.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzerozenxlabs%2Fpdf.js?ref=badge_large)
